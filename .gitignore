@@ -1,0 +1,19 @@
+# PyInstaller
+build/
+dist/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Config (contains user-specific paths, don't track)
+.moyu_reader_config
